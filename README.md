@@ -3,10 +3,15 @@ Question 5 and 6
 Pseudocode
 
 1)	Setup Argument Parser
+
   a.	Accept csv file as argument
+  
   b.	Check if file exists, and raise error if it doesn’t.
+  
   c.	Read data from the csv file and store in Pandas Data frame
+  
   d.	If the csv file contains header, then the header flag should be true in “read_csv”
+  
 2)	Organize Data
   a.	Use functions from Pandas library to remove unwanted columns from Data Frame
   b.	Clean data if needed from unknown character sets.
