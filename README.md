@@ -40,3 +40,14 @@ Pseudocode
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii.	If current column matches the column in parent loop, then skip
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii.	Create Scatter plot using Matplot Lib for the columns in child and parent loops
+
+
+
+Steps to run the script:
+1) Go to command line
+2) Make sure that python is added to Path
+3) Run following command with <csv_file_path> as argument
+
+python3.6 data_parser.py boston_housing.csv
+
+<Python 3> <File_containg_code> <Csv File>
